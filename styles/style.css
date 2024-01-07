@@ -1,0 +1,51 @@
+body {
+    max-width: 1320px;
+}
+/*header start*/
+.header {
+    font-family: 'Merriweather';
+    text-align: center;
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    border-radius: 16px;
+    
+}
+.titel1 {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400;
+}
+.titel2{
+    color: #FFF;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
+/*header end*/
+/*section one start*/
+.happyNewYear {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+.sectionOneTitieOne {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.sectionOneTitieTwo {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 600;
+}
+.sectionOneTitieThree{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 10px;
+}
+.sectionOneImg {
+    width: 800px;
+    height: 500px;
+}
